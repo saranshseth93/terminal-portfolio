@@ -169,17 +169,10 @@ nav ul li {
     padding-left: 10px;
   }
 
-  #winbox-3 {
-    top: 10% !important;
-    right: 16% !important;
-    left: unset !important;
-    width: 370px !important;
-  }
-
-  #winbox-2 {
-    top: 10% !important;
-    right: 68% !important;
-    left: unset !important;
+  .winbox {
+    left: 50% !important;
+    top: 50% !important;
+    transform: translate(-50%, -50%) !important;
     width: 370px !important;
   }
 
