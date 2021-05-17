@@ -1,1 +1,1 @@
-# terminal-portfolio
+#A simple Portfolio in terminal style
