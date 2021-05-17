@@ -160,3 +160,12 @@ nav ul li {
     transform: translatey(0px);
   }
 }
+
+@media screen and (max-width: 767px) {
+  #winbox-3,
+  #winbox-4 {
+    top: 10%;
+    right: 69%;
+    width: 370px;
+  }
+}
