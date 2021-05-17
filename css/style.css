@@ -163,7 +163,7 @@ nav ul li {
 
 @media screen and (max-width: 767px) {
   body {
-    font-size: 1.2rem;
+    font-size: 1.1rem;
   }
   #contact {
     padding-left: 10px;
@@ -174,5 +174,9 @@ nav ul li {
     top: 10%;
     right: 69%;
     width: 370px;
+  }
+
+  .online li {
+    padding: 5px 0;
   }
 }
