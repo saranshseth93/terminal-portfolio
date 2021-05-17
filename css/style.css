@@ -171,7 +171,8 @@ nav ul li {
 
   .winbox {
     top: 10% !important;
-    right: 69% !important;
+    right: 16% !important;
+    left: unset !important;
     width: 370px !important;
   }
 
